@@ -38,12 +38,12 @@ if(isset($_POST['cpf']) && !empty($_POST['cpf'])){
 						exit;
 					}else{
 						$_SESSION['error'] = 'Você não tem permissão para fazer login';
-						header("Location: /crud_usuarios/index.php");
+						header("Location: /crud_usuarios/login.php");
 					}
 				
 				}else{
 						$_SESSION['error'] = 'Você não tem permissão para fazer login';
-						header("Location: /crud_usuarios/index.php");
+						header("Location: /crud_usuarios/login.php");
 				}
         		
 			}else{
