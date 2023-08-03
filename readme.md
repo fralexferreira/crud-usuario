@@ -3,11 +3,12 @@ Projeto Crud de usuários desenvolvido em PHP e Javascript.
 
 ## Composição
 
+- Login;
+- Permissão de Acesso;
 - Cadastro;
 - Edição;
 - Leitura;
-- Login;
-- Permissão de Acesso;
+- Exclusão;
 - Páginação;
 - Filtro de busca;
 
