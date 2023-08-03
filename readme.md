@@ -15,7 +15,7 @@ Projeto Crud de usuários desenvolvido em PHP e Javascript.
 
 1. Faça um clone do repositório
 2. Crie o banco de dados dbname tabela
-3. Faça um git clone do repositório uuid -> https://github.com/ramsey/uuid
+3. Faça um clone do repositório uuid -> https://github.com/ramsey/uuid
 4. Dados para Login: 
 - **CPF: 81770473025**
 - **Senha: 123456**
